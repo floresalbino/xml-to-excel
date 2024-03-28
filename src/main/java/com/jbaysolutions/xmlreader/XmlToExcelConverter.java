@@ -72,7 +72,7 @@ public class XmlToExcelConverter extends Constants {
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 		Document doc = dBuilder.parse(xmlFile);
 
-		
+		 
 		    NodeList nodeList = doc.getElementsByTagName("*");
 		    int contador = 0;
 		    for (int i = 0; i < nodeList.getLength(); i++) {
