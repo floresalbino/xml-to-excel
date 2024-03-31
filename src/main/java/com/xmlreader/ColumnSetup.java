@@ -1,4 +1,4 @@
-package com.jbaysolutions.xmlreader;
+package com.xmlreader;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellStyle;

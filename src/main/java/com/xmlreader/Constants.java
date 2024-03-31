@@ -1,4 +1,4 @@
-package com.jbaysolutions.xmlreader;
+package com.xmlreader;
 
 public class Constants {
 

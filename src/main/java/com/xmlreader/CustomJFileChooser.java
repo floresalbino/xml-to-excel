@@ -1,4 +1,4 @@
-package com.jbaysolutions.xmlreader;
+package com.xmlreader;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package com.jbaysolutions.xmlreader;
+package com.xmlreader;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
